@@ -3,6 +3,7 @@
 <p align="center">
   <img src="3D.gif" alt="animated" />
 </p>
-Please see this paper for more details
-Download MuVihand datset here
-Find the instruction for using the dataset here
+<br /> 
+Please see this paper for more details <br /> 
+Download MuVihand datset here <br /> 
+Find the instruction for using the dataset here <br /> 
