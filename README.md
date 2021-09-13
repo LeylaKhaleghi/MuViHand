@@ -5,6 +5,6 @@
 </p>
 <br /> 
 Please see this paper for more details <br /> 
-Download MuVihand datset [here](https://dataverse.scholarsportal.info/dataverse/queens/)
+Download MuVihand datset [here] (https://dataverse.scholarsportal.info/dataverse/queens/)
 <br /> 
 Find the instruction for using the dataset here <br /> 
