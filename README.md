@@ -5,6 +5,6 @@
 </p>
 <br /> 
 Please see this paper for more details <br /> 
-Download MuVihand datset [here] (https://doi.org/10.5683/SP3/ZHCCZB)
+Download MuViHand datset [here] (https://doi.org/10.5683/SP3/ZHCCZB)
 <br /> 
 
