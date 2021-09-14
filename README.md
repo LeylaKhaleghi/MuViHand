@@ -7,4 +7,4 @@
 Please see this paper for more details <br /> 
 Download MuVihand datset [here] (https://dataverse.scholarsportal.info/dataverse/queens/)
 <br /> 
-Find the instruction for using the dataset here <br /> 
+Find the instruction for using the dataset [here] (https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py) <br /> 
