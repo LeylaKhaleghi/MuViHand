@@ -25,7 +25,7 @@ MuViHand/
     T_Subject.10.rar/ # Tracking cameras data for subject 10 
 ```
 
-- A scripts that shows the basic use of the data for python could be find [here](https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py);
+- A scripts that shows the basic use of the data for python could be found [here](https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py);
 - Keypoints available:
 0: wrist, 1-4: thumb [palm to tip], 5-8: index, 9-12: middle, 13-16: ring,  17-20: pinkie;
 
