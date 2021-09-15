@@ -1,5 +1,5 @@
 # MuViHand
- # **MuViHand** (**Mu**lti-view **Vi**deo based **Hand** Pose )Dataset
+ # **MuViHand** (**Mu**lti-view **Vi**deo based **Hand** Pose) Dataset
 <p align="center">
   <img src="3D.gif" alt="animated" />
 </p>
