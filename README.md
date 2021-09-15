@@ -10,9 +10,9 @@ Please see this paper for more details.
 <br /> 
 
 # Download required files
-- Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB)
-- Unzip dataverse_files.zip to /path/to/MuViHand
-- Your dataset structure should be like : 
+- Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB);
+- Unzip dataverse_files.zip to /path/to/MuViHand;
+- Your dataset structure should be like:
 ```
 MuViHand/
     F1_Subject.01.rar/ # Fixed cameras data for subject 1 
@@ -25,9 +25,9 @@ MuViHand/
     T_Subject.10.rar/ # Tracking cameras data for subject 10 
 ```
 
-- A scripts that shows the basic use of the data for python could be find [here](https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py)
+- A scripts that shows the basic use of the data for python could be find [here](https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py);
 - Keypoints available:
-0: wrist, 1-4: thumb [palm to tip], 5-8: index, 9-12: middle, 13-16: ring,  17-20: pinkie. 
+0: wrist, 1-4: thumb [palm to tip], 5-8: index, 9-12: middle, 13-16: ring,  17-20: pinkie;
 
 
 
