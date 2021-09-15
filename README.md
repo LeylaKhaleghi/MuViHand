@@ -16,13 +16,13 @@ Please see this paper for more details.
 ```
 MuViHand/
     F1_Subject.01.rar/ # Fixed cameras data for subject 1 
-    F1_Subject.01.rar/ # Fixed cameras data for subject 1 
-    F1_Subject.01.rar/ # Tracking cameras data for subject 1 
+    F2_Subject.01.rar/ # Fixed cameras data for subject 1 
+    T_Subject.01.rar/ # Tracking cameras data for subject 1 
     ...
      
     F1_Subject.10.rar/ # Fixed cameras data for subject 10 
-    F1_Subject.10.rar/ # Fixed cameras data for subject 10
-    F1_Subject.10.rar/ # Tracking cameras data for subject 10 
+    F2_Subject.10.rar/ # Fixed cameras data for subject 10
+    T_Subject.10.rar/ # Tracking cameras data for subject 10 
 ```
 
 - A scripts that shows the basic use of the data for python could be find [here](https://github.com/LeylaKhaleghi/MuViHand/blob/main/MuViHand.py)
