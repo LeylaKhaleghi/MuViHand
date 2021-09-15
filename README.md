@@ -10,5 +10,6 @@ Please see this paper for more details.
 <br /> 
 Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB)
 <br /> 
+unzip MuSeHand.zip to /path/to/MuViHand
 
 
