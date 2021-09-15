@@ -11,7 +11,7 @@ Please see this paper for more details.
 
 # Download required files
 - Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB)
-- Unzip MuSeHand.zip to /path/to/MuViHand
+- Unzip dataverse_files.zip to /path/to/MuViHand
 - Your dataset structure should be like : 
 ```
 MuViHand/
