@@ -31,3 +31,8 @@ MuViHand/
 
 
 
+In this [video](https://www.youtube.com/watch?v=jEJHIXdPjfU) you can learn how to release your dataset in [Dataverse](https://dataverse.scholarsportal.info/).
+
+
+
+
