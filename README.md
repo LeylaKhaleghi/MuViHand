@@ -33,6 +33,16 @@ MuViHand/
 # Useful tools
 In this [video](https://www.youtube.com/watch?v=jEJHIXdPjfU) you can learn how to release your dataset in [Dataverse](https://dataverse.scholarsportal.info/).
 
+# Citation 
+Please cite our paper if this dataset helps your research.
+
+@article{khaleghi2022multi,
+  title={Multi-view video-based 3D hand pose estimation},
+  author={Khaleghi, Leyla and Sepas-Moghaddam, Alireza and Marshall, Joshua and Etemad, Ali},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
 
 
 
